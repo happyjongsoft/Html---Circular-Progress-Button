@@ -11,5 +11,4 @@ Integrate or build upon it for free in your personal or commercial projects. Don
 
 Read more here: [License](http://tympanus.net/codrops/licensing/)
 
-
-[© Codrops 2014](http://www.codrops.com)
+[happy.jong.soft@gmail.com](mailto:happy.jong.soft@gmail.com)
